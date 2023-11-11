@@ -4,9 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello from development!");
-
-            Console.WriteLine("Dev");
+            Console.WriteLine("Hello from branch - development and Ann!");
         }
     }
 }
