@@ -6,5 +6,10 @@
         {
             Console.WriteLine("Hello, World!");
         }
+
+        public void Print(string text)
+        {
+            Console.WriteLine(text);
+        }
     }
 }
