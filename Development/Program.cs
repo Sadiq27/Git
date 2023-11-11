@@ -5,6 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello from branch - development and Ann!");
+
+            Console.WriteLine("Test");
         }
 
         public void Print(string text)
