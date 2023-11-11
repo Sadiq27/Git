@@ -5,6 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello from development!");
+
+            Console.WriteLine("Dev");
         }
     }
 }
